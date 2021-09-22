@@ -1,3 +1,22 @@
+--============================================================================--
+-- File name : AdderUnsignedSaturate.vhd
+--
+-- Purpose : Adder Unsigned Saturate Module
+--
+-- Errors: : None known
+--
+-- Library : Work
+--
+-- Author : Kaiky Mykhailo
+-- Belarusian State University of Informatics ans Radioelectronics
+-- email: kaikymykhailo@gmail.com
+--
+-- Simulator : ModelSim 10.6b
+---------------------------------------------------
+-- Revision list
+-- Version Author Date Changes
+-- 1.0 27.08.2021 - Done
+--============================================================================--
 LIBRARY ieee;
 USE ieee.std_logic_1164.all;
 USE IEEE.numeric_std.ALL;
