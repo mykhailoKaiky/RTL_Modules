@@ -99,11 +99,6 @@ Thumbs.db
 *.xmsgs
 *.version
 *.str
-*.v
-*.sv
-*.vh
-*.svh
-*.h
 *.vp
 *.cmd
 *.cmf
